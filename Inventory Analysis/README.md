@@ -12,7 +12,7 @@ efficiency.
 
 **Dataset Reference:** Sample Superstore Dataset.xlsx
 
-**Observations/ Insights:**
+**Observations / Insights:**
 
 **Shipping Efficiency:**
 
@@ -24,4 +24,5 @@ The dashboard facilitated a focused evaluation of product categories and sub-cat
 
 **Timely Deliveries:**
 
-By analyzing ship dates, the dashboard identified shipping delays and assessed their impact on customer satisfaction. This information empowers stakeholders to optimize the shipping timeline,improving overall order fulfillment and meeting customer expectations.
+By analyzing ship dates, the dashboard identified shipping delays and assessed their impact on customer satisfaction. 
+This information empowers stakeholders to optimize the shipping timeline,improving overall order fulfillment and meeting customer expectations.
